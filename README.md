@@ -21,6 +21,11 @@
 | Project | Description | Tech |
 | ------- | ----------- | ---- |
 | [**KRSBI-Humanoid-Vision**](https://github.com/Naufal1-ai/KRSBI-Humanoid-Vision) | Real-time ball detection for a KRSBI Humanoid robot: YOLOv8n (ONNX), Kalman Filter motion prediction, and serial communication to OpenCR. Runs at about 20 FPS on a Jetson Nano. | Python, YOLOv8, OpenCV, ONNX, Jetson Nano, OpenCR |
+| [**pbl-spektra**](https://github.com/zakyrmh/pbl-spektra) | Digital queue system for the Sawahlunto Public Service Mall (MPP): online booking, QR check-in, real-time queue calling and a public display screen. Team project (Team SPEKTRA), where I worked as **System Analyst**. | Laravel, MySQL, TailwindCSS, WebSockets |
+| [**produktivity_app**](https://github.com/Naufal1-ai/produktivity_app) | Productivity application. | - |
+
+------- | ----------- | ---- |
+| [**KRSBI-Humanoid-Vision**](https://github.com/Naufal1-ai/KRSBI-Humanoid-Vision) | Real-time ball detection for a KRSBI Humanoid robot: YOLOv8n (ONNX), Kalman Filter motion prediction, and serial communication to OpenCR. Runs at about 20 FPS on a Jetson Nano. | Python, YOLOv8, OpenCV, ONNX, Jetson Nano, OpenCR |
 | [**trpl2c-bukutamu**](https://github.com/Naufal1-ai/trpl2c-bukutamu) | Guestbook application for a web programming course. | PHP |
 | [**pencatatan-data-mahasiswa-**](https://github.com/Naufal1-ai/pencatatan-data-mahasiswa-) | Student data recording application. | PHP |
 | [**web-ti-nopal**](https://github.com/Naufal1-ai/web-ti-nopal) | Personal static website. | HTML |
