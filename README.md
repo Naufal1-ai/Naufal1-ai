@@ -8,7 +8,7 @@
 
 ### 💻 About Me
 
-- 🎓 D4 Software Engineering (TRPL) student at**Politeknik Negeri Padang**.
+- 🎓 D4 Software Engineering (TRPL) student at **Politeknik Negeri Padang**.
 - 🤖 Member of the **Humanoid Division** at the campus robotics student organization (UKM Robotik), building software and hardware for humanoid soccer robots.
 - 🧠 Working on computer vision: real-time ball detection with **YOLOv8 + Kalman Filter** on **Jetson Nano**, and pose-based motion analysis with **MediaPipe** for a health-tech project.
 - 🌐 I also build web and mobile applications with **PHP / Laravel**, **React / TypeScript**, and **Flutter**.
